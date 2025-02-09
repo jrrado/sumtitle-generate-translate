@@ -1,0 +1,4 @@
+vosk
+googletrans
+tkinter
+sqlite3
